@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42692'
     url: http://www.gutenberg.org/2009/agents/42692
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44319#Miss-Heck-s-Thanksgiving-Partyor-Topsy-Up-To-Date
 gutenberg_issued: '2013-12-01'
 gutenberg_type: Text
 identifiers:
