@@ -1,0 +1,26 @@
+_repo: Miss-Heck-s-Thanksgiving-Partyor-Topsy-Up-To-Date_44319
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44319-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Munsell, Ida Hamilton
+    gutenberg_agent_id: '42692'
+    url: http://www.gutenberg.org/2009/agents/42692
+description: ''
+gutenberg_issued: '2013-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Household employees -- Fiction'
+- !lcsh 'African American women -- Fiction'
+- !lcsh 'Thanksgiving Day -- Fiction'
+- !lcc 'PS'
+title: Miss Heck's Thanksgiving Party; or, Topsy Up To Date
+url: http://www.gutenberg.org/ebooks/44319
